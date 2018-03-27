@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## 个人信息
 
-You can use the [editor on GitHub](https://github.com/ViYaYaYa/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* 工作年限：3年
+* 联系电话：**156 2614 9693**
+* 联系邮箱：**[eureka-studio@qq.com](eureka-studio@qq.com)**
+* 微信： ViYaYaYa
+* github：[https://github.com/ViYaYaYa](https://github.com/ViYaYaYa)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 教育背景
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 华南师范大学
+* 2015届电子商务专业
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 技能
 
-- Bulleted
-- List
+* 精通HTML5 / CSS3 / JS
+* 熟练使用>= ECMAScript 2015进行开发，了解常见设计模式，严格遵循ESLint编码风格，掌握调试工具使用
+* CSS扎实，熟练进行桌面端与移动端的样式实现，对布局与命名方式严谨，能手写实现特殊动效
+* 使用MVVM框架中的Vue / Vuex / vue-router开发栈进行小至中大型项目的开发工作
+* 手写Webpack、Babel、postcss配置进行项目开发及打包环境的构建
+* 有jQuery、Knockout、Axios、Handlebars等常见类库、CSS库的使用经验
+* 熟悉GitFlow，熟练使用Git及相关指令配合开发
+* 熟悉grunt、gulp构建工具
+* 熟悉HTTP、HTTPS等协议
+* 了解小程序、Node.js
+* 英语6级，日语N3
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 工作经验
 
-[Link](url) and ![Image](src)
-```
+### 蓝月亮中国有限公司
+#### 2016.11 至今
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+---
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ViYaYaYa/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 软通动力信息技术有限公司
+#### 2015 - 2016.10
