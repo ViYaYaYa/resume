@@ -4,7 +4,7 @@
 
 * 工作年限：3年
 * 联系电话：**[156 2614 9693](tel:15626149693)**
-* 联系邮箱：**<eureka-studio@qq.com>**
+* 联系邮箱：**[eureka-studio@qq.com](mailto:eureka-studio@qq.com)**
 * 微信： ViYaYaYa
 * github：[https://github.com/ViYaYaYa](https://github.com/ViYaYaYa)
 
