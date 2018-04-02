@@ -32,40 +32,34 @@
 
 ## 工作经验
 
----
-
 ### 蓝月亮中国有限公司
 #### 2016.11 至今
 
-1. <img src="https://angel.bluemoon.com.cn:8881/angelUpload/download/app/moonAngel/ios/Icon@3x.png" height="50">月亮天使
+1. <img src="https://angel.bluemoon.com.cn:8881/angelUpload/download/app/moonAngel/ios/Icon@3x.png" height="50" style="vertical-align: middle"> 月亮天使
+  * 项目介绍：面试公司全体员工的（WEB）手机端OA系统，功能涵盖从最基本的员工打卡、请假、加班申请系统，到行政人员的人事管理、审批、信息操作模块，以及公司内部文件共享、活动分享参与等便捷性功能的入口，为公司内部的移动办公创造了巨大便利，也简化了众多行政事务的流程，是作为蓝月亮向互联网企业转型的一个重要部署
   * 技术栈：Vue / Vuex / vue-router + MintUI + Less + Webpack Dynamic Import
-  * 参与开发模块：业务标准书、HR寻源招聘、面试与入职管理、上级关系查询等
-  * 独立完成项目样式组件库bmui的开发工作（Vue自定义组件 + Stylus + Webpack）
-  * 优化项目Axios监听函数，增加通用配置项，优化api回调逻辑
+  * 参与模块：内部样式组件库Bmui的抽离开发、富文本预览与编辑模块，人事行政招聘、面试、审批、查询模块，福利领取与分享模块、项目层面的功能封装与逻辑优化
 
-2. <img src="https://angel.bluemoon.com.cn:8881/angelUpload/download/app/sfa/ios/Icon@3x.png" height="50">SFA
-  * 技术栈：Knockout + jQuery + Sammy.js开发栈
-  * 参与开发模块：团队进度与管理、陈列巡检、零售计划与今日工作确认等
-  * 通过监听popstate行为，开发公用门店、人员弹窗选择工具，提高项目人员整体开发效率
+2. <img src="https://angel.bluemoon.com.cn:8881/angelUpload/download/app/sfa/ios/Icon@3x.png" height="50" style="vertical-align: middle"> SFA
+  * 项目介绍：蓝月亮销售能力自动化功能的移动端部署，主要用户为公司一线员工，包括门店销售人员，地区负责人或经理，通过APP提供一系列与公司市场、销售业务相关的功能，销售员工可通过SFA进行进店、离店操作，并提交相关销售数据，上级人员则能制定任务和计划，并对下属提交的相关信息进行审批，再者，包括一些基本信息的查询模块，如门店分布、商品库存等
+  * 技术栈：Knockout + jQuery + Sammyjs（后期新增功能为Vue相关）
+  * 参与模块：团队销售进度管理，门店陈列货品抽检计划，上级人员制定零售计划与对今日工作确认模块，开发门店搜索器等公共功能
 
-3. <img src="https://angel.bluemoon.com.cn:8881/angelUpload/download/app/OfficeAuto/ios/Icon@3x.png" height="50">相关前端项目
-  * 洗衣大师Web端开发（Vue）
-  * 参与其他项目（蓝月亮行政服务、蓝月亮B2B商城）的模块协助开发
-  * 活动日推广H5制作（Swiper + Animate.css）或其他独立小型Web项目开发
-  * 团队内部工具开发：在线H5编辑器、在线笔记分享（Markdown语法）
-  * 蓝月亮官网内容维护
+3. <img src="https://angel.bluemoon.com.cn:8881/angelUpload/download/app/OfficeAuto/ios/Icon@3x.png" height="50" style="vertical-align: middle"> 相关前端项目
+  * 蓝月亮企业官网内容管理与维护
+  * 2017洗衣大师Web端活动官网
+  * 参与蓝月亮B2B商城APP、企业公共服务APP部分模块及部门小型WEB项目开发
+  * 节假日企业文化及在线商城活动推广H5制作
 
 ---
 
 ### 软通动力信息技术有限公司
 #### 2015 - 2016.10
 
-1. 安利 Mobile Portal OA：FrozenUI + jQuery + Handlebars
-2. 安利 5GPOS Mobile：SUI + jQuery
-3. 融合创富移动端订餐：Zepto + Bootstrap
+1. 安利 Mobile Portal OA —— 公司内部移动端OA：FrozenUI + jQuery + Handlebars
+2. 安利 5GPOS Mobile —— 移动端零售结算系统：SUI + jQuery
+3. 融合创富移动端订餐模块：Zepto + Bootstrap
 4. 主导前端开发工作，协助各模块项目上线并修复漏洞
-
----
 
 
 ## 评价
